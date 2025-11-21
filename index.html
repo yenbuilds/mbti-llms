@@ -206,6 +206,10 @@
         let isDragging = false;
         let lastMouseX = 0;
         let lastMouseY = 0;
+        
+        // 3D projection constants
+        const PERSPECTIVE_DISTANCE = 300;
+        const CAMERA_OFFSET = 5;
 
         const nodeData = {
             Ti: {
@@ -319,7 +323,7 @@
             let z2 = y * sinX + z1 * cosX;
 
             // Perspective projection
-            let scale = 300 / (5 + z2);
+            let scale = PERSPECTIVE_DISTANCE / (CAMERA_OFFSET + z2);
             scale *= zoom;
 
             return {
@@ -421,9 +425,6 @@
                 time += 0.01;
             }
 
-            // Store positions for connections
-            const positions = [];
-
             // Draw connections first (behind nodes)
             const cogPositions = cognitiveNodes.map((node, i) => {
                 const angle = time + (i * Math.PI / 2);
@@ -443,6 +444,7 @@
             }
 
             // LLM connections
+            if (llmNodes.length < 2) return;
             const llmInPos = { x: llmNodes[0].x, y: llmNodes[0].y, z: llmNodes[0].z };
             const llmOutPos = { x: llmNodes[1].x, y: llmNodes[1].y, z: llmNodes[1].z };
 

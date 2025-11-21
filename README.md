@@ -77,7 +77,7 @@ According to the analysis, INTPs benefit highly from LLMs because:
 ## 📁 Repository Structure
 
 ```
-mbti-llms/
+.
 ├── index.html                      # Interactive 3D visualization
 ├── mbti-llm-benefits-analysis.md   # Comprehensive MBTI-LLM analysis
 └── README.md                       # This file
