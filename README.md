@@ -8,7 +8,7 @@ AI benefits every personality type, but “disproportionate benefit” means **A
 # 1. Why INTPs Benefit the Most  
 ## The “Zero-to-One” Unlock
 
-INTPs excel at deep analysis and conceptual reasoning (Ti + Ne). Their challenge is not intelligence, but **execution**:  
+INTPs excel at deep analysis and conceptual reasoning (Ti + Ne). Their challenge is not ideas, but **execution**:  
 - finishing work  
 - organizing thoughts into a deliverable  
 - turning a brilliant concept into a finished product  
@@ -70,7 +70,7 @@ AI compensates for their natural lack of follow-through.
 
 **INTPs benefit the most from AI because AI acts as a prosthetic for executive dysfunction.**
 
-Their intelligence has always outpaced their output.  
+Their ambition has always outpaced their output.  
 AI finally closes this gap.  
 It allows INTPs to operate at the level their inner thinking always promised—without being slowed by the practical steps they naturally avoid.
 
