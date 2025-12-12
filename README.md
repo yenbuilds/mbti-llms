@@ -1,3 +1,11 @@
+[YPL] do NOT take any of this as fact. while useful for mental exploration:
+
+- MBTI is NOT a science and also lacks predictive value
+- the argument, also convincing sounding is not evidenced my experiment
+
+this currently stands as "something interesting" but not a lot more.
+
+
 # Which MBTI Type Benefits Most From AI?  
 ## Why INTPs Gain Disproportionately From LLMs
 
