@@ -1,9 +1,6 @@
-[YPL] do NOT take any of this as fact. while useful for mental exploration:
+Do not treat any of this as established fact. While it may be useful for mental exploration, MBTI is not a scientific framework and has little to no predictive validity.
 
-- MBTI is NOT a science and also lacks predictive value
-- the argument, also convincing sounding is not evidenced my experiment
-
-this currently stands as "something interesting" but not a lot more.
+The argument presented—however convincing it may sound—is not supported by experimental evidence. At present, this should be regarded as an interesting idea rather than a substantiated claim.
 
 
 # Which MBTI Type Benefits Most From AI?  
